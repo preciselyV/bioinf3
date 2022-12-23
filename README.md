@@ -2,7 +2,7 @@
 
 
 openfold:  
-![openfold](./opefold.png)
+![openfold](./openfold.png)
 
 esmfold:  
 ![esmfold](./esmfold.png)
